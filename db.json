@@ -1,0 +1,44 @@
+{
+    "album": [
+      {
+        "name": "A Walk in the Woods",
+        "artist": "Martin O'Donnell",
+        "path": "audio/martin-odonnell-and-michael-salvatori-a-walk-in-the-woods.mp3"
+      },
+      {
+        "name": "Covenant Dance",
+        "artist": "Martin O'Donnell",
+        "path": "audio/martin-odonnell-and-michael-salvatori-covenant-dance.mp3"
+      },
+      {
+        "name": "Halo",
+        "artist": "Martin O'Donnell",
+        "path": "audio/martin-odonnell-and-michael-salvatori-halo.mp3"
+      },
+      {
+        "name": "Under Cover of Night",
+        "artist": "Martin O'Donnell",
+        "path": "audio/martin-odonnell-and-michael-salvatori-under-cover-of-night.mp3"
+      },
+      {
+        "name": "Lions and Tigers",
+        "artist": "Martin O'Donnell",
+        "path": "audio/martin-odonnell-michael-salvatori-lions-and-tigers-and.mp3"
+      },
+      {
+        "name": "Perilous Journey",
+        "artist": "Martin O'Donnell",
+        "path": "audio/martin-odonnell-and-michael-salvatori-perilous-journey.mp3"
+      },
+      {
+        "name": "On a Pale Horse",
+        "artist": "Martin O'Donnell",
+        "path": "audio/martin-odonnell-and-michael-salvatori-on-a-pale-horse.mp3"
+      },
+      {
+        "name": "Dream Again (Extented)",
+        "artist": "Martin O'Donnell",
+        "path": "audio/DreamAgainExtended.mp3"
+      }
+    ]
+}
